@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1fca30b-ece2-4864-9180-1314566970cf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QJyy5WwWz5NVrkrPlAZqI0MZPw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/面试素材" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/面试素材" />
+      <recent name="$PROJECT_DIR$/Traverse/BFS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DP/Easy" />
+      <recent name="$PROJECT_DIR$/面试素材/面试测试/已经测试过的部分" />
+      <recent name="$PROJECT_DIR$/Sort" />
+      <recent name="$PROJECT_DIR$/面试素材/递归和循环" />
+      <recent name="$PROJECT_DIR$/机试素材/trush bin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Solution (2)">
+    <configuration name="复习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP/Mid/279. Perfect Squares" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Mid/279. Perfect Squares/复习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP/Mid/264. 丑数 II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Mid/264. 丑数 II/DP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP/Greedy Alg/134. 加油站" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Greedy Alg/134. 加油站/Solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP/Greedy Alg/376. 摆动序列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Greedy Alg/376. 摆动序列/Solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP/Greedy Alg/455. 分发饼干" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Greedy Alg/455. 分发饼干/Solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other test/SAIMA/百度" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other test/SAIMA/百度/乘法表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="快排" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试素材/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试素材/排序/快排.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="选择排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试素材/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试素材/排序/选择排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="句子反转" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other test/SAIMA/小米" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other test/SAIMA/小米/句子反转.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="合唱队" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Niuke/String" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Niuke/Array/合唱队/合唱队.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字符串分割" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Niuke" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Niuke/字符串分割.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="合并表格" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Niuke" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Niuke/合并表格.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="迷宫问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other test/Niuke/DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other test/Niuke/DFS/迷宫问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="名字的漂亮度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other test/Niuke/String" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other test/Niuke/String/名字的漂亮度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="复习（需要复习）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP/Mid/139. Word Break" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/Mid/139. Word Break/复习（需要复习）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="基本二分法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试素材/二分法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试素材/二分法/基本二分法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="按字节截取字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other test/Niuke/String" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other test/Niuke/String/按字节截取字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="学英语" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other test/Niuke/Math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other test/Niuke/Math/学英语.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.DP" />
+      <item itemvalue="Python.复习" />
+      <item itemvalue="Python.Solution" />
+      <item itemvalue="Python.Solution (1)" />
+      <item itemvalue="Python.Solution (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Solution (2)" />
+        <item itemvalue="Python.Solution (1)" />
+        <item itemvalue="Python.Solution" />
+        <item itemvalue="Python.复习" />
+        <item itemvalue="Python.DP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1fca30b-ece2-4864-9180-1314566970cf" name="Default Changelist" comment="" />
+      <created>1567503245246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567503245246</updated>
+      <workItem from="1567503252304" duration="1020000" />
+      <workItem from="1567504450708" duration="1508000" />
+      <workItem from="1567508483344" duration="122000" />
+      <workItem from="1567778091453" duration="87000" />
+      <workItem from="1567778215006" duration="6000" />
+      <workItem from="1568446341707" duration="10000" />
+      <workItem from="1569581193641" duration="2134000" />
+      <workItem from="1577250503802" duration="22832000" />
+      <workItem from="1577584304797" duration="18010000" />
+      <workItem from="1577678660969" duration="11214000" />
+      <workItem from="1577753421037" duration="6781000" />
+      <workItem from="1577764366012" duration="9221000" />
+      <workItem from="1577925048925" duration="16052000" />
+      <workItem from="1578011696588" duration="8648000" />
+      <workItem from="1578041571420" duration="3274000" />
+      <workItem from="1578051411647" duration="891000" />
+      <workItem from="1578053336692" duration="3288000" />
+      <workItem from="1578097676676" duration="16820000" />
+      <workItem from="1578270602730" duration="17605000" />
+      <workItem from="1578311895422" duration="5261000" />
+      <workItem from="1578358991129" duration="9868000" />
+      <workItem from="1578394562972" duration="1319000" />
+      <workItem from="1578395909231" duration="272000" />
+      <workItem from="1578450487564" duration="29193000" />
+      <workItem from="1578738774258" duration="5701000" />
+      <workItem from="1578820366960" duration="5701000" />
+      <workItem from="1578879084212" duration="12885000" />
+      <workItem from="1578899669032" duration="19740000" />
+      <workItem from="1578997496371" duration="894000" />
+      <workItem from="1579055169325" duration="169000" />
+      <workItem from="1579149054247" duration="8224000" />
+      <workItem from="1579229224165" duration="19488000" />
+      <workItem from="1579311127085" duration="11645000" />
+      <workItem from="1579481916497" duration="5855000" />
+      <workItem from="1579498277748" duration="10288000" />
+      <workItem from="1579574680200" duration="11253000" />
+      <workItem from="1579662126165" duration="11263000" />
+      <workItem from="1580112468180" duration="2752000" />
+      <workItem from="1580273523137" duration="5856000" />
+      <workItem from="1580285460549" duration="5714000" />
+      <workItem from="1580428395362" duration="20804000" />
+      <workItem from="1580523048048" duration="20190000" />
+      <workItem from="1580699182179" duration="18987000" />
+      <workItem from="1580729584407" duration="4508000" />
+      <workItem from="1580797501337" duration="11996000" />
+      <workItem from="1580869435730" duration="26481000" />
+      <workItem from="1580964405268" duration="11438000" />
+      <workItem from="1581135142007" duration="19846000" />
+      <workItem from="1581218357541" duration="10167000" />
+      <workItem from="1581304946067" duration="5195000" />
+      <workItem from="1581310980403" duration="15253000" />
+      <workItem from="1581402114413" duration="17810000" />
+      <workItem from="1581478546807" duration="16400000" />
+      <workItem from="1581582699605" duration="9806000" />
+      <workItem from="1581737507171" duration="15272000" />
+      <workItem from="1581819299798" duration="25318000" />
+      <workItem from="1581911333539" duration="12144000" />
+      <workItem from="1581930526992" duration="6022000" />
+      <workItem from="1582086077491" duration="6384000" />
+      <workItem from="1582095138559" duration="11296000" />
+      <workItem from="1582187694441" duration="11898000" />
+      <workItem from="1582259858640" duration="23686000" />
+      <workItem from="1582360808818" duration="1904000" />
+      <workItem from="1582428364866" duration="1019000" />
+      <workItem from="1582446100575" duration="16330000" />
+      <workItem from="1582520608497" duration="15983000" />
+      <workItem from="1582605915478" duration="15318000" />
+      <workItem from="1582634590733" duration="2622000" />
+      <workItem from="1582687573538" duration="22842000" />
+      <workItem from="1582784907450" duration="4304000" />
+      <workItem from="1582968412831" duration="5053000" />
+      <workItem from="1583016970357" duration="32763000" />
+      <workItem from="1583406522961" duration="2454000" />
+      <workItem from="1583410147932" duration="4155000" />
+      <workItem from="1583458933050" duration="19819000" />
+      <workItem from="1583545099908" duration="9577000" />
+      <workItem from="1583561198261" duration="11312000" />
+      <workItem from="1583648976722" duration="14721000" />
+      <workItem from="1583720003044" duration="11113000" />
+      <workItem from="1583737707248" duration="8456000" />
+      <workItem from="1583803319357" duration="8360000" />
+      <workItem from="1583846606695" duration="155000" />
+      <workItem from="1583895883400" duration="10017000" />
+      <workItem from="1583922721758" duration="388000" />
+      <workItem from="1583923201830" duration="8874000" />
+      <workItem from="1583933974286" duration="124000" />
+      <workItem from="1583934101518" duration="2109000" />
+      <workItem from="1583940975375" duration="6263000" />
+      <workItem from="1584006682079" duration="6332000" />
+      <workItem from="1584095959617" duration="35000" />
+      <workItem from="1584154303576" duration="10574000" />
+      <workItem from="1584263785455" duration="7279000" />
+      <workItem from="1584323095452" duration="6570000" />
+      <workItem from="1584446246023" duration="883000" />
+      <workItem from="1584498649181" duration="25055000" />
+      <workItem from="1584583088559" duration="3620000" />
+      <workItem from="1584875786643" duration="4000" />
+      <workItem from="1585201815135" duration="5790000" />
+      <workItem from="1585313021721" duration="47000" />
+      <workItem from="1585918395917" duration="69000" />
+      <workItem from="1586003543985" duration="58000" />
+      <workItem from="1586517755682" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/easy/20. Valid Parentheses/4.Stack.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/easy/53. Maximum Subarray/3. Greedy.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/easy/88. Merge Sorted Array/Solution.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/easy/88. Merge Sorted Array/Solution2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/LinkList Structure.py</url>
+          <line>296</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Easy/21. Merge Two Sorted Lists/recursive.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Easy/21. Merge Two Sorted Lists/recursive.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/easy/121. Best Time to Buy and Sell Stock/brute force.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/easy/121. Best Time to Buy and Sell Stock/Dp.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/5. Longest Palindromic Substring/brute force.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/5. Longest Palindromic Substring/DP.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/91. Decode Ways（DP）/DP.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/95. Unique Binary Search Trees II (mid)/DP.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/152. Maximum Product Subarray/DP.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Easy/198. House Robber(DP)/DP.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Hard/10. Regular Expression Matching/DP.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Hard/32. Longest Valid Parentheses/DP2.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Hard/85. Maximal Rectangle/DP.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Hard/97. Interleaving String/Stack.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/math/easy/13. Roman to Integer/Math.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/math/easy/69. Sqrt(x)/binary search.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/2. Add Two Numbers/iterate.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/2. Add Two Numbers/Recursive.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/math/29. Divide Two Integers/brute force.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/math/43. Multiply Strings/Solution.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/math/60. Permutation Sequence/ans.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/easy/66. Plus One/Solution.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/easy/119. Pascal's Triangle II/Solution.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/11. Container With Most Water/brute force.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/15. 3Sum/two pointer.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/18. 4Sum/Solution.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/18. 4Sum/Solution.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/33. Search in Rotated Sorted Array/Solution.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/34. Find First and Last Position of Element in Sorted Array/Binary Search.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/40. Combination Sum II/backtracking.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/46. Permutations/backtracking.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/46. Permutations/backtracking.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/47. Permutations II/backtracking.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/48. Rotate Image/Solution.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/56. Merge Intervals/Solution.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/73. Set Matrix Zeroes/in_place method.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/73. Set Matrix Zeroes/in_place method.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/73. Set Matrix Zeroes/in_place method.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/74. Search a 2D Matrix/binary.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/74. Search a 2D Matrix/binary.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/75. Sort Colors/Solution.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/75. Sort Colors/Solution.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/78. Subsets/Solution.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/79. Word Search/Solution.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/79. Word Search/backtracking.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/79. Word Search/backtracking.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/79. Word Search/backtracking.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/80. Remove Duplicates from Sorted Array II/Solution.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/80. Remove Duplicates from Sorted Array II/two pointer.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/80. Remove Duplicates from Sorted Array II/two pointer.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/90. Subsets II/Solution.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/90. Subsets II/Solution.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/105. Construct Binary Tree from Preorder and Inorder Traversal/105. Construct Binary Tree from Preorder and Inorder Traversal.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/105. Construct Binary Tree from Preorder and Inorder Traversal/105. Construct Binary Tree from Preorder and Inorder Traversal.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Easy/283. Move Zeroes/Solution.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Easy/283. Move Zeroes/Solution.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/hard/4. Median of Two Sorted Arrays/BinarySearch.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/easy/617. Merge Two Binary Trees/Solution.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/easy/538. Convert BST to Greater Tree/Solution.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/easy/538. Convert BST to Greater Tree/Solution.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/easy/543. Diameter of Binary Tree/Solution.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/easy/107. Binary Tree Level Order Traversal II/Solution.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/113. Path Sum II/Solution.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/113. Path Sum II/Solution.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/337. House Robber III/Solution1.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/236. Lowest Common Ancestor of a Binary Tree/Solution.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/236. Lowest Common Ancestor of a Binary Tree/Solution.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/236. Lowest Common Ancestor of a Binary Tree/Solution.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/236. Lowest Common Ancestor of a Binary Tree/good solution.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/98. Validate Binary Search Tree/Solution.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/98. Validate Binary Search Tree/Solution2.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Hard/124. Binary Tree Maximum Path Sum/Solution.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/406. Queue Reconstruction by Height/Solution.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/621. Task Scheduler/Solution.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/621. Task Scheduler/Solution.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/easy/206. Reverse Linked List/Solution.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Easy/448. Find All Numbers Disappeared in an Array/牛逼Solution.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/easy/155. Min Stack/Solution.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/easy/155. Min Stack/Solution.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Medium/739. Daily Temperatures/Solution.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Medium/739. Daily Temperatures/Solution2.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Medium/739. Daily Temperatures/Solution2.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Medium/394. Decode String/test.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Medium/394. Decode String/Solution.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/easy/1021. Remove Outermost Parentheses/Solution.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/easy/1021. Remove Outermost Parentheses/Solution.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/easy/496. Next Greater Element I/Solution.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Medium/71. Simplify Path/Solution.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Medium/150. Evaluate Reverse Polish Notation/Solution.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/103. Binary Tree Zigzag Level Order Traversal/Solution.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/144. Binary Tree Preorder Traversal/Stack.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Hard/42. Trapping Rain Water/Solution.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Hard/84. Largest Rectangle in Histogram/stack.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/stack/Hard/84. Largest Rectangle in Histogram/stack.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/easy/234. Palindrome Linked List/Solution.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/easy/234. Palindrome Linked List/Solution.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Easy/581. Shortest Unsorted Continuous Subarray/Solution.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Easy/581. Shortest Unsorted Continuous Subarray/Solution.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Easy/581. Shortest Unsorted Continuous Subarray/Solution.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/22. Generate Parentheses/Solution.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/151. Reverse Words in a String/Solution.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/151. Reverse Words in a String/Solution.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/151. Reverse Words in a String/Solution.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/49. Group Anagrams/Solution.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/647. Palindromic Substrings/Solution.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/647. Palindromic Substrings/Solution.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/347. Top K Frequent Elements/Solution.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/347. Top K Frequent Elements/Solution.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sort/148. Sort List/mergesort.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/19. Remove Nth Node From End of List/Solution.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/19. Remove Nth Node From End of List/Solution2.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/19. Remove Nth Node From End of List/Solution2.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/19. Remove Nth Node From End of List/Solution2.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/easy/83. Remove Duplicates from Sorted List/Solution.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/easy/83. Remove Duplicates from Sorted List/Solution.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/easy/83. Remove Duplicates from Sorted List/Solution2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/24. Swap Nodes in Pairs/Solution.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/24. Swap Nodes in Pairs/Solution.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/24. Swap Nodes in Pairs/Solution2.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/61. Rotate List/Solution.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/92. Reverse Linked List II/Solution.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/92. Reverse Linked List II/Solution.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/Medium/92. Reverse Linked List II/Solution.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/LinkList/hard/23. Merge k Sorted Lists/Solution.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/200. Number of Islands/Solution.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/322. Coin Change/Solution.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/322. Coin Change/Solution.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/322. Coin Change/Solution.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/322. Coin Change/Solution2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/322. Coin Change/Solution2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/300. Longest Increasing Subsequence/Solution.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/300. Longest Increasing Subsequence/Solution.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/221. Maximal Square/Solution2.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/221. Maximal Square/Solution2.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/416. Partition Equal Subset Sum/DP.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/416. Partition Equal Subset Sum/DP.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/560. Subarray Sum Equals K/Solution.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Decrease and conquer/240. Search a 2D Matrix II/Solution.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Decrease and conquer/240. Search a 2D Matrix II/Solution.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/122. Best Time to Buy and Sell Stock II/Solution.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/309. Best Time to Buy and Sell Stock with Cooldown/Solution.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/309. Best Time to Buy and Sell Stock with Cooldown/Solution.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Sliding window/438. Find All Anagrams in a String/Solution2.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Sliding window/438. Find All Anagrams in a String/Solution2.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Sliding window/76. Minimum Window Substring/Solution.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Sliding window/76. Minimum Window Substring/Solution.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Sliding window/76. Minimum Window Substring/Solution.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/28. Implement strStr()/Solution.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/6. ZigZag Conversion/Solution.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/BFS/301. Remove Invalid Parentheses/Solution.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/28. Longest Consecutive Sequence/Solution.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/28. Longest Consecutive Sequence/Solution.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/38. Count and Say/Solution.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/36. Valid Sudoku/Solution.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/36. Valid Sudoku/Solution.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/30. Substring with Concatenation of All Words/Solution.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/30. Substring with Concatenation of All Words/Solution.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/30. Substring with Concatenation of All Words/Solution2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/202. Happy Number/Solution.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/204. Count Primes/Solution.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Dict/205. Isomorphic Strings/Solution.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/easy/面试题03. 数组中重复的数字/in place.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review/面试题24. 反转链表.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/BFS/127. Word Ladder/Solution.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/BFS/127. Word Ladder/good solution.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/BFS/127. Word Ladder/good solution.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/BFS/133. Clone Graph/Solution.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/BFS/133. Clone Graph/Solution.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/BFS/310. Minimum Height Trees/brute force.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/BFS/310. Minimum Height Trees/brute force.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/计算字符个数.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/质数因子.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/质数因子.py</url>
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/提取不重复数.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/坐标移动.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/简单错误记录/wrong.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/密码验证.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/简单密码.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/300. Longest Increasing Subsequence/debug solution.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/Array/合唱队/合唱队.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/字符串排序.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/hard/4. Median of Two Sorted Arrays/BinarySearch.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Traverse/backtracking and DFS/面试题13. 机器人的运动范围/Solution.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/Math/素数伴侣.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/Math/素数伴侣.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/字符串运用-密码截取.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/Array/蛇形矩阵.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/Array/蛇形矩阵.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/Math/繁殖问题.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/Queue/面试题59 - II. 队列的最大值/Solution.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Sliding window/面试题57 - II. 和为s的连续正数序列/Solution.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/Sliding window/面试题57 - II. 和为s的连续正数序列/Solution.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Easy/面试题46. 把数字翻译成字符串/Solution.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/识别有效的IP地址和掩码并进行分类统计.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/面试题14- I. 剪绳子/DP.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure/BinaryTree/Medium/面试题26. 树的子结构/Solution.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/SAIMA/小米/树的高度/exceed time limite.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/SAIMA/小米/树的高度/exceed time limite.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/SAIMA/百度/乘法表.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/Math/学英语.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/DFS/迷宫问题.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Other test/Niuke/String/按字节截取字符串.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/Mid/LCP 3. 机器人大冒险/Solution.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/68. Text Justification/Solution.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/93. Restore IP Addresses/Solution.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/115. Distinct Subsequences/DFS.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/String/115. Distinct Subsequences/DFS.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/HUAWEI/考试111.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/HUAWEI/考试111.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/HUAWEI/考试1.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="505" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/HUAWEI/考试3.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/trush bin/宝宝/q3_rename.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="510" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/MEITUAN/1.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/MEITUAN/2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/MEITUAN/2.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试素材/排序/mergesort.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试素材/二分法/基本二分法.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/机试素材/HUAWEI/考试2.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="521" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试素材/面试测试/已经测试过的部分/q1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="522" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/5. Longest Palindromic Substring/复习.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="525" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/62. Unique Paths (DP)/复习.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="526" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/139. Word Break/复习（需要复习）.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/139. Word Break/复习（需要复习）.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Easy/198. House Robber(DP)/复习(需要复习）.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/221. Maximal Square/fuxi.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/221. Maximal Square/fuxi.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="540" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/264. 丑数 II/DP.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/264. 丑数 II/DP.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="542" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/279. Perfect Squares/复习.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="543" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Mid/279. Perfect Squares/复习.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="546" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/455. 分发饼干/Solution.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/455. 分发饼干/Solution.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="548" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/134. 加油站/Solution.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/134. 加油站/Solution.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/376. 摆动序列/Solution.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/Greedy Alg/376. 摆动序列/Solution.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="cur" />
+        <watch expression="increase_cnt" />
+        <watch expression="decrease_cnt" />
+        <watch expression="cnt" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode$brute_force.coverage" NAME="brute force Coverage Results" MODIFIED="1579234130579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/Array/11. Container With Most Water" />
+    <SUITE FILE_PATH="coverage/Leetcode$105__Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.coverage" NAME="105. Construct Binary Tree from Preorder and Inorder Traversal Coverage Results" MODIFIED="1580724627987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/BinaryTree" />
+    <SUITE FILE_PATH="coverage/Leetcode$Math.coverage" NAME="Math Coverage Results" MODIFIED="1578821103573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Easy/Math/13. Roman to Integer" />
+    <SUITE FILE_PATH="coverage/Leetcode$.coverage" NAME="复习 Coverage Results" MODIFIED="1584533527796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Mid/279. Perfect Squares" />
+    <SUITE FILE_PATH="coverage/Leetcode$Quick_Select.coverage" NAME="Quick Select Coverage Results" MODIFIED="1584164233280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array/Mid/215. Kth Largest Element in an Array（快排）" />
+    <SUITE FILE_PATH="coverage/Leetcode$Recursive__1_.coverage" NAME="Recursive (1) Coverage Results" MODIFIED="1578020970457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/64. Minimum Path Sum" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution2__2_.coverage" NAME="Solution2 (2) Coverage Results" MODIFIED="1581853091440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/LinkList/Medium/24. Swap Nodes in Pairs" />
+    <SUITE FILE_PATH="coverage/pycharm_python$tensorflow.coverage" NAME="tensorflow Coverage Results" MODIFIED="1567506152421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_debug" />
+    <SUITE FILE_PATH="coverage/Leetcode$cecilia.coverage" NAME="cecilia Coverage Results" MODIFIED="1578821044557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pycharm_python$test.coverage" NAME="test Coverage Results" MODIFIED="1577251066036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_debug" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution__5_.coverage" NAME="Solution (5) Coverage Results" MODIFIED="1582536211453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/Dict/28. Longest Consecutive Sequence" />
+    <SUITE FILE_PATH="coverage/Leetcode$3.coverage" NAME="考试3 Coverage Results" MODIFIED="1583942224953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机试素材/考试" />
+    <SUITE FILE_PATH="coverage/Leetcode$rest.coverage" NAME="rest Coverage Results" MODIFIED="1583410726862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array/hard/4. Median of Two Sorted Arrays" />
+    <SUITE FILE_PATH="coverage/Leetcode$__3_.coverage" NAME="复习 (3) Coverage Results" MODIFIED="1584521637826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Easy/198. House Robber(DP)" />
+    <SUITE FILE_PATH="coverage/Leetcode$good_solution.coverage" NAME="good solution Coverage Results" MODIFIED="1582707824850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Traverse/BFS/301. Remove Invalid Parentheses" />
+    <SUITE FILE_PATH="coverage/Leetcode$centre_spread.coverage" NAME="centre spread Coverage Results" MODIFIED="1577933088964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/5. Longest Palindromic Substring" />
+    <SUITE FILE_PATH="coverage/Leetcode$mergesort.coverage" NAME="mergesort Coverage Results" MODIFIED="1584166783485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试素材/排序" />
+    <SUITE FILE_PATH="coverage/Leetcode$backtracking__2_.coverage" NAME="backtracking (2) Coverage Results" MODIFIED="1579670746432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/backtracking/46. Permutations" />
+    <SUITE FILE_PATH="coverage/Leetcode$DP.coverage" NAME="DP Coverage Results" MODIFIED="1584526882695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Mid/264. 丑数 II" />
+    <SUITE FILE_PATH="coverage/Leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1582640552649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/Leetcode$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1584500281818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试素材/面试测试" />
+    <SUITE FILE_PATH="coverage/pycharm_python$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1577252774536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/lib/python3.7" />
+    <SUITE FILE_PATH="coverage/Leetcode$DP__2_.coverage" NAME="DP (2) Coverage Results" MODIFIED="1578624063004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. hard/DP/97. Interleaving String" />
+    <SUITE FILE_PATH="coverage/Leetcode$in_place_method.coverage" NAME="in_place method Coverage Results" MODIFIED="1580440361949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/Array/73. Set Matrix Zeroes" />
+    <SUITE FILE_PATH="coverage/Leetcode$stack.coverage" NAME="stack Coverage Results" MODIFIED="1581584232406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/stack/Hard/84. Largest Rectangle in Histogram" />
+    <SUITE FILE_PATH="coverage/Leetcode$IP.coverage" NAME="识别有效的IP地址和掩码并进行分类统计 Coverage Results" MODIFIED="1583561017209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Niuke/String" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution__2_.coverage" NAME="Solution (2) Coverage Results" MODIFIED="1585215022719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Greedy Alg/376. 摆动序列" />
+    <SUITE FILE_PATH="coverage/pycharm_python$haha.coverage" NAME="haha Coverage Results" MODIFIED="1567503524562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_debug" />
+    <SUITE FILE_PATH="coverage/Leetcode$DP2.coverage" NAME="DP2 Coverage Results" MODIFIED="1583572635333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Mid/面试题14- I. 剪绳子" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution__4_.coverage" NAME="Solution (4) Coverage Results" MODIFIED="1582528202334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backtracking/301. Remove Invalid Parentheses" />
+    <SUITE FILE_PATH="coverage/Leetcode$DP__3_.coverage" NAME="DP (3) Coverage Results" MODIFIED="1578627021800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. hard/DP/97. Interleaving String" />
+    <SUITE FILE_PATH="coverage/Leetcode$2.coverage" NAME="考试2 Coverage Results" MODIFIED="1584271299690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机试素材/HUAWEI" />
+    <SUITE FILE_PATH="coverage/Leetcode$3_Solution1.coverage" NAME="3.Solution1 Coverage Results" MODIFIED="1577259615358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/20. Valid Parentheses" />
+    <SUITE FILE_PATH="coverage/Leetcode$solution.coverage" NAME="solution Coverage Results" MODIFIED="1583412111409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Traverse/backtracking and DFS/面试13" />
+    <SUITE FILE_PATH="coverage/pycharm_python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1577251704584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/lib" />
+    <SUITE FILE_PATH="coverage/Leetcode$brute_force_2.coverage" NAME="brute force 2 Coverage Results" MODIFIED="1578115148498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/5. Longest Palindromic Substring" />
+    <SUITE FILE_PATH="coverage/Leetcode$ASCII_.coverage" NAME="ASCII 转换 Coverage Results" MODIFIED="1583665527592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机试素材/ASCII" />
+    <SUITE FILE_PATH="coverage/Leetcode$iterate.coverage" NAME="iterate Coverage Results" MODIFIED="1578891895008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/math/2. Add Two Numbers" />
+    <SUITE FILE_PATH="coverage/Leetcode$TravelOrder.coverage" NAME="TravelOrder Coverage Results" MODIFIED="1578114599677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/BinaryTree" />
+    <SUITE FILE_PATH="coverage/Leetcode$2_Solution1.coverage" NAME="2.Solution1 Coverage Results" MODIFIED="1577268149635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/53. Maximum Subarray" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution__1_.coverage" NAME="Solution (1) Coverage Results" MODIFIED="1585204824935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Greedy Alg/134. 加油站" />
+    <SUITE FILE_PATH="coverage/Leetcode$backtracking__1_.coverage" NAME="backtracking (1) Coverage Results" MODIFIED="1579667114584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/Array/40. Combination Sum II" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution__3_.coverage" NAME="Solution (3) Coverage Results" MODIFIED="1583926533173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String/115. Distinct Subsequences" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution.coverage" NAME="Solution Coverage Results" MODIFIED="1585203216901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Greedy Alg/455. 分发饼干" />
+    <SUITE FILE_PATH="coverage/Leetcode$binary.coverage" NAME="binary Coverage Results" MODIFIED="1580440416368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/Array/74. Search a 2D Matrix" />
+    <SUITE FILE_PATH="coverage/Leetcode$Dp.coverage" NAME="Dp Coverage Results" MODIFIED="1578633139855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. hard/DP/44. Wildcard Matching" />
+    <SUITE FILE_PATH="coverage/Leetcode$DP__4_.coverage" NAME="DP (4) Coverage Results" MODIFIED="1578389123525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. hard/DP/10. Regular Expression Matching" />
+    <SUITE FILE_PATH="coverage/Leetcode$binary_search.coverage" NAME="binary search Coverage Results" MODIFIED="1578823698788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Easy/Math/69. Sqrt(x)" />
+    <SUITE FILE_PATH="coverage/Leetcode$ans.coverage" NAME="ans Coverage Results" MODIFIED="1578991671247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/math/60. Permutation Sequence" />
+    <SUITE FILE_PATH="coverage/Leetcode$4_Solution2.coverage" NAME="4.Solution2 Coverage Results" MODIFIED="1577259865306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/20. Valid Parentheses" />
+    <SUITE FILE_PATH="coverage/Leetcode$tst.coverage" NAME="tst Coverage Results" MODIFIED="1583560246411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Niuke/String/简单错误记录" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution2.coverage" NAME="Solution2 Coverage Results" MODIFIED="1583493690449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others/Sliding window/面试题57 - II. 和为s的连续正数序列" />
+    <SUITE FILE_PATH="coverage/Leetcode$20__Valid_Parentheses__1_.coverage" NAME="20. Valid Parentheses (1) Coverage Results" MODIFIED="1577252923794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy" />
+    <SUITE FILE_PATH="coverage/Leetcode$Recursive.coverage" NAME="Recursive Coverage Results" MODIFIED="1578895841576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/math/2. Add Two Numbers" />
+    <SUITE FILE_PATH="coverage/Leetcode$backtracking.coverage" NAME="backtracking Coverage Results" MODIFIED="1579594058561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/Array/39. Combination Sum" />
+    <SUITE FILE_PATH="coverage/Leetcode$fib.coverage" NAME="fib的递归和循环 Coverage Results" MODIFIED="1584162221525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试素材/递归和循环" />
+    <SUITE FILE_PATH="coverage/Leetcode$_.coverage" NAME="字符串运用-密码截取 Coverage Results" MODIFIED="1583468010958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Niuke/String" />
+    <SUITE FILE_PATH="coverage/Leetcode$1.coverage" NAME="1 Coverage Results" MODIFIED="1584017382691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机试素材/MEITUAN" />
+    <SUITE FILE_PATH="coverage/Leetcode$DP2__1_.coverage" NAME="DP2 (1) Coverage Results" MODIFIED="1578553413395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. hard/DP/85. Maximal Rectangle" />
+    <SUITE FILE_PATH="coverage/Leetcode$__1_.coverage" NAME="复习 (1) Coverage Results" MODIFIED="1584501908386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Mid/62. Unique Paths (DP)" />
+    <SUITE FILE_PATH="coverage/Leetcode$3__Solution2.coverage" NAME="3. Solution2 Coverage Results" MODIFIED="1577273154996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/53. Maximum Subarray" />
+    <SUITE FILE_PATH="coverage/Leetcode$in_place.coverage" NAME="in place Coverage Results" MODIFIED="1582629517589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array/easy/面试题03. 数组中重复的数字" />
+    <SUITE FILE_PATH="coverage/Leetcode$11.coverage" NAME="考试11 Coverage Results" MODIFIED="1583936026756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机试素材/考试" />
+    <SUITE FILE_PATH="coverage/Leetcode$DP__1_.coverage" NAME="DP (1) Coverage Results" MODIFIED="1578549812357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. hard/DP/85. Maximal Rectangle" />
+    <SUITE FILE_PATH="coverage/Leetcode$4__Dynamic_programming.coverage" NAME="4. Dynamic programming Coverage Results" MODIFIED="1577275913646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/53. Maximum Subarray" />
+    <SUITE FILE_PATH="coverage/Leetcode$fuxi.coverage" NAME="fuxi Coverage Results" MODIFIED="1584524530153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Mid/221. Maximal Square" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution2__1_.coverage" NAME="Solution2 (1) Coverage Results" MODIFIED="1581844744028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/LinkList/easy/83. Remove Duplicates from Sorted List" />
+    <SUITE FILE_PATH="coverage/Leetcode$q3_change.coverage" NAME="q3_change Coverage Results" MODIFIED="1583947180163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机试素材/宝宝" />
+    <SUITE FILE_PATH="coverage/Leetcode$two_pointer.coverage" NAME="two pointer Coverage Results" MODIFIED="1580552170764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/Array/80. Remove Duplicates from Sorted Array II" />
+    <SUITE FILE_PATH="coverage/Leetcode$Recursive__2_.coverage" NAME="Recursive (2) Coverage Results" MODIFIED="1578115222296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/95. Unique Binary Search Trees II" />
+    <SUITE FILE_PATH="coverage/Leetcode$LinkList_Structure.coverage" NAME="LinkList Structure Coverage Results" MODIFIED="1577680314762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/LinkList" />
+    <SUITE FILE_PATH="coverage/Leetcode$__2_.coverage" NAME="复习 (2) Coverage Results" MODIFIED="1584504894448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Mid/64. Minimum Path Sum (DP)" />
+    <SUITE FILE_PATH="coverage/Leetcode$rename_dir.coverage" NAME="rename dir Coverage Results" MODIFIED="1582611601508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others/project" />
+    <SUITE FILE_PATH="coverage/Leetcode$backtracking__3_.coverage" NAME="backtracking (3) Coverage Results" MODIFIED="1579672058646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/backtracking/47. Permutations II" />
+    <SUITE FILE_PATH="coverage/Leetcode$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1581487752957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/BinaryTree/Medium/144. Binary Tree Preorder Traversal" />
+    <SUITE FILE_PATH="coverage/Leetcode$q3_rename.coverage" NAME="q3_rename Coverage Results" MODIFIED="1583944594845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机试素材/宝宝" />
+    <SUITE FILE_PATH="coverage/Leetcode$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1580550242039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/Array/80. Remove Duplicates from Sorted Array II" />
+    <SUITE FILE_PATH="coverage/Leetcode$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1583410649281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array/hard/4. Median of Two Sorted Arrays" />
+    <SUITE FILE_PATH="coverage/Leetcode$Backtracking3.coverage" NAME="Backtracking3 Coverage Results" MODIFIED="1582191717878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. Medium/DP/494. Target Sum" />
+    <SUITE FILE_PATH="coverage/Leetcode$debug_solution.coverage" NAME="debug solution Coverage Results" MODIFIED="1583048885379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Mid/300. Longest Increasing Subsequence" />
+    <SUITE FILE_PATH="coverage/Leetcode$Solution1.coverage" NAME="Solution1 Coverage Results" MODIFIED="1581152289239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/BinaryTree 2/Medium/337. House Robber III" />
+  </component>
+</project>
