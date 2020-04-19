@@ -1,0 +1,806 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9F0E0A7924490EA800E68976 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F0E0A7824490EA800E68976 /* solution.cpp */; };
+		9F0E0A7D24491E0B00E68976 /* Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F0E0A7C24491E0B00E68976 /* Solution.cpp */; };
+		9F1ED6F5244BF208007D685E /* Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F1ED6F4244BF208007D685E /* Solution.cpp */; };
+		9F1ED6F8244BFC16007D685E /* Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F1ED6F7244BFC16007D685E /* Solution.cpp */; };
+		9F1ED6FB244C2D7E007D685E /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F1ED6FA244C2D7E007D685E /* solution.cpp */; };
+		9F1ED6FE244C3939007D685E /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F1ED6FD244C3939007D685E /* solution.cpp */; };
+		9F1ED701244C455F007D685E /* Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F1ED700244C455F007D685E /* Solution.cpp */; };
+		9F326A92243AEE600002068A /* solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F326A91243AEE600002068A /* solution1.cpp */; };
+		9F326A95243B090F0002068A /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F326A94243B090F0002068A /* solution.cpp */; };
+		9F326A98243B11D20002068A /* Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F326A97243B11D20002068A /* Solution.cpp */; };
+		9F68FBE024388F6500BC03B1 /* 219. 存在重复元素 II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F68FBDF24388F6500BC03B1 /* 219. 存在重复元素 II.cpp */; };
+		9FB0F3EA244906A900D18F97 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB0F3E9244906A900D18F97 /* solution.cpp */; };
+		9FB8568D2436CC6B00CC25CC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB8568C2436CC6B00CC25CC /* main.cpp */; };
+		9FB856962436CCBC00CC25CC /* solution994.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856952436CCBC00CC25CC /* solution994.cpp */; };
+		9FB856982436DB7500CC25CC /* 遍历vector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856972436DB7500CC25CC /* 遍历vector.cpp */; };
+		9FB8569B24370AE500CC25CC /* Solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB8569A24370AE500CC25CC /* Solution1.cpp */; };
+		9FB8569D24370E9500CC25CC /* Solution2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB8569C24370E9500CC25CC /* Solution2.cpp */; };
+		9FB856A02437150B00CC25CC /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB8569F2437150B00CC25CC /* solution.cpp */; };
+		9FB856A224371C7600CC25CC /* rotate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856A124371C7600CC25CC /* rotate.cpp */; };
+		9FB856A524371E8C00CC25CC /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856A424371E8C00CC25CC /* solution.cpp */; };
+		9FB856A72437229F00CC25CC /* solution2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856A62437229F00CC25CC /* solution2.cpp */; };
+		9FB856AB24372EAB00CC25CC /* solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856AA24372EAB00CC25CC /* solution1.cpp */; };
+		9FB856AE243738BE00CC25CC /* solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856AD243738BE00CC25CC /* solution1.cpp */; };
+		9FB856B124374A1D00CC25CC /* Solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856B024374A1D00CC25CC /* Solution1.cpp */; };
+		9FB856B42437678500CC25CC /* count函数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856B32437678400CC25CC /* count函数.cpp */; };
+		9FB856B824376BE500CC25CC /* dp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856B724376BE500CC25CC /* dp.cpp */; };
+		9FB856BB24376F1600CC25CC /* sort method.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856BA24376F1600CC25CC /* sort method.cpp */; };
+		9FC809492438B14800AB4E93 /* sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC809482438B14800AB4E93 /* sort.cpp */; };
+		9FC809532439ABE800AB4E93 /* solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC809522439ABE800AB4E93 /* solution1.cpp */; };
+		9FC809562439AF1400AB4E93 /* reverse function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC809552439AF1400AB4E93 /* reverse function.cpp */; };
+		9FC809582439AFD400AB4E93 /* swap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC809572439AFD400AB4E93 /* swap.cpp */; };
+		9FC8095B2439B43D00AB4E93 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC8095A2439B43D00AB4E93 /* solution.cpp */; };
+		9FC809612439B8DF00AB4E93 /* solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC809602439B8DF00AB4E93 /* solution1.cpp */; };
+		9FC809652439CA2000AB4E93 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC809642439CA2000AB4E93 /* solution.cpp */; };
+		9FC8096B2439D02900AB4E93 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC8096A2439D02900AB4E93 /* solution.cpp */; };
+		9FC8E457244AA8F500870285 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC8E456244AA8F500870285 /* solution.cpp */; };
+		9FC8E45A244AAD8800870285 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC8E459244AAD8800870285 /* solution.cpp */; };
+		9FC8E45C244AEBC500870285 /* stream method.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC8E45B244AEBC500870285 /* stream method.cpp */; };
+		9FC8E45F244B160000870285 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC8E45E244B160000870285 /* solution.cpp */; };
+		9FC8E461244B1EBB00870285 /* Solution2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FC8E460244B1EBB00870285 /* Solution2.cpp */; };
+		9FD5F24D243BF603005ED8F5 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD5F24C243BF603005ED8F5 /* solution.cpp */; };
+		9FF270AE2449BE0D0019DA7B /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FF270AD2449BE0D0019DA7B /* solution.cpp */; };
+		9FF270B02449D21E0019DA7B /* solution2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FF270AF2449D21E0019DA7B /* solution2.cpp */; };
+		9FF270B32449DB6A0019DA7B /* solution(exceed time).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FF270B22449DB6A0019DA7B /* solution(exceed time).cpp */; };
+		9FF270B52449E4440019DA7B /* dp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FF270B42449E4440019DA7B /* dp.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		9FB856872436CC6B00CC25CC /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		9F0E0A7824490EA800E68976 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9F0E0A7C24491E0B00E68976 /* Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution.cpp; sourceTree = "<group>"; };
+		9F1ED6F4244BF208007D685E /* Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution.cpp; sourceTree = "<group>"; };
+		9F1ED6F7244BFC16007D685E /* Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution.cpp; sourceTree = "<group>"; };
+		9F1ED6FA244C2D7E007D685E /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9F1ED6FD244C3939007D685E /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9F1ED700244C455F007D685E /* Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution.cpp; sourceTree = "<group>"; tabWidth = 4; };
+		9F326A91243AEE600002068A /* solution1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution1.cpp; sourceTree = "<group>"; };
+		9F326A94243B090F0002068A /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9F326A97243B11D20002068A /* Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution.cpp; sourceTree = "<group>"; };
+		9F68FBDF24388F6500BC03B1 /* 219. 存在重复元素 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "219. 存在重复元素 II.cpp"; sourceTree = "<group>"; };
+		9FB0F3E9244906A900D18F97 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FB856892436CC6B00CC25CC /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
+		9FB8568C2436CC6B00CC25CC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		9FB856952436CCBC00CC25CC /* solution994.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution994.cpp; sourceTree = "<group>"; };
+		9FB856972436DB7500CC25CC /* 遍历vector.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "遍历vector.cpp"; sourceTree = "<group>"; };
+		9FB8569A24370AE500CC25CC /* Solution1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution1.cpp; sourceTree = "<group>"; };
+		9FB8569C24370E9500CC25CC /* Solution2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution2.cpp; sourceTree = "<group>"; };
+		9FB8569F2437150B00CC25CC /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FB856A124371C7600CC25CC /* rotate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = rotate.cpp; sourceTree = "<group>"; };
+		9FB856A424371E8C00CC25CC /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FB856A62437229F00CC25CC /* solution2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution2.cpp; sourceTree = "<group>"; };
+		9FB856AA24372EAB00CC25CC /* solution1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution1.cpp; sourceTree = "<group>"; };
+		9FB856AD243738BE00CC25CC /* solution1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution1.cpp; sourceTree = "<group>"; };
+		9FB856B024374A1D00CC25CC /* Solution1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution1.cpp; sourceTree = "<group>"; };
+		9FB856B32437678400CC25CC /* count函数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "count函数.cpp"; sourceTree = "<group>"; };
+		9FB856B724376BE500CC25CC /* dp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dp.cpp; sourceTree = "<group>"; };
+		9FB856BA24376F1600CC25CC /* sort method.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "sort method.cpp"; sourceTree = "<group>"; };
+		9FC809482438B14800AB4E93 /* sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sort.cpp; sourceTree = "<group>"; };
+		9FC809522439ABE800AB4E93 /* solution1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution1.cpp; sourceTree = "<group>"; };
+		9FC809552439AF1400AB4E93 /* reverse function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "reverse function.cpp"; sourceTree = "<group>"; };
+		9FC809572439AFD400AB4E93 /* swap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = swap.cpp; sourceTree = "<group>"; };
+		9FC8095A2439B43D00AB4E93 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FC809602439B8DF00AB4E93 /* solution1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution1.cpp; sourceTree = "<group>"; };
+		9FC809642439CA2000AB4E93 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FC8096A2439D02900AB4E93 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FC8E456244AA8F500870285 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FC8E459244AAD8800870285 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FC8E45B244AEBC500870285 /* stream method.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "stream method.cpp"; sourceTree = "<group>"; };
+		9FC8E45E244B160000870285 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FC8E460244B1EBB00870285 /* Solution2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution2.cpp; sourceTree = "<group>"; };
+		9FD5F24C243BF603005ED8F5 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FF270AD2449BE0D0019DA7B /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9FF270AF2449D21E0019DA7B /* solution2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution2.cpp; sourceTree = "<group>"; };
+		9FF270B22449DB6A0019DA7B /* solution(exceed time).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "solution(exceed time).cpp"; sourceTree = "<group>"; };
+		9FF270B42449E4440019DA7B /* dp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dp.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9FB856862436CC6B00CC25CC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9F0E0A7724490E9300E68976 /* 522. 最长特殊序列 II */ = {
+			isa = PBXGroup;
+			children = (
+				9F0E0A7824490EA800E68976 /* solution.cpp */,
+			);
+			path = "522. 最长特殊序列 II";
+			sourceTree = "<group>";
+		};
+		9F0E0A7A24491DF500E68976 /* 537. 复数乘法 */ = {
+			isa = PBXGroup;
+			children = (
+				9F0E0A7C24491E0B00E68976 /* Solution.cpp */,
+			);
+			path = "537. 复数乘法";
+			sourceTree = "<group>";
+		};
+		9F1ED6F2244BF1D9007D685E /* 设计 */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED6FF244C4549007D685E /* 341. 扁平化嵌套列表迭代器(重要) */,
+				9F1ED6FC244C392B007D685E /* 284. 顶端迭代器 （继承） */,
+				9F1ED6F9244C2D6E007D685E /* 232. 用栈实现队列 */,
+				9F1ED6F6244BFC07007D685E /* 706. 设计哈希映射 */,
+				9F1ED6F3244BF1ED007D685E /* 705. 设计哈希集合 */,
+			);
+			path = "设计";
+			sourceTree = "<group>";
+		};
+		9F1ED6F3244BF1ED007D685E /* 705. 设计哈希集合 */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED6F4244BF208007D685E /* Solution.cpp */,
+			);
+			path = "705. 设计哈希集合";
+			sourceTree = "<group>";
+		};
+		9F1ED6F6244BFC07007D685E /* 706. 设计哈希映射 */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED6F7244BFC16007D685E /* Solution.cpp */,
+			);
+			path = "706. 设计哈希映射";
+			sourceTree = "<group>";
+		};
+		9F1ED6F9244C2D6E007D685E /* 232. 用栈实现队列 */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED6FA244C2D7E007D685E /* solution.cpp */,
+			);
+			path = "232. 用栈实现队列";
+			sourceTree = "<group>";
+		};
+		9F1ED6FC244C392B007D685E /* 284. 顶端迭代器 （继承） */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED6FD244C3939007D685E /* solution.cpp */,
+			);
+			path = "284. 顶端迭代器 （继承）";
+			sourceTree = "<group>";
+		};
+		9F1ED6FF244C4549007D685E /* 341. 扁平化嵌套列表迭代器(重要) */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED700244C455F007D685E /* Solution.cpp */,
+			);
+			path = "341. 扁平化嵌套列表迭代器(重要)";
+			sourceTree = "<group>";
+		};
+		9F326A90243AEE4E0002068A /* 343. 整数拆分 */ = {
+			isa = PBXGroup;
+			children = (
+				9F326A91243AEE600002068A /* solution1.cpp */,
+			);
+			path = "343. 整数拆分";
+			sourceTree = "<group>";
+		};
+		9F326A93243B09010002068A /* 63. 不同路径 II  */ = {
+			isa = PBXGroup;
+			children = (
+				9F326A94243B090F0002068A /* solution.cpp */,
+			);
+			path = "63. 不同路径 II ";
+			sourceTree = "<group>";
+		};
+		9F326A96243B11B90002068A /* 876. 链表的中间结点 */ = {
+			isa = PBXGroup;
+			children = (
+				9F326A97243B11D20002068A /* Solution.cpp */,
+			);
+			path = "876. 链表的中间结点";
+			sourceTree = "<group>";
+		};
+		9F326A99243B566E0002068A /* 86. 分隔链表 */ = {
+			isa = PBXGroup;
+			children = (
+				9FD5F24C243BF603005ED8F5 /* solution.cpp */,
+			);
+			path = "86. 分隔链表";
+			sourceTree = "<group>";
+		};
+		9F68FBDE24388F2000BC03B1 /* HashMap */ = {
+			isa = PBXGroup;
+			children = (
+				9F0E0A7724490E9300E68976 /* 522. 最长特殊序列 II */,
+				9FC809452438A7F500AB4E93 /* 219. 存在重复元素 II */,
+			);
+			path = HashMap;
+			sourceTree = "<group>";
+		};
+		9FB0F3E82449069000D18F97 /* 383. 赎金信 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB0F3E9244906A900D18F97 /* solution.cpp */,
+			);
+			path = "383. 赎金信";
+			sourceTree = "<group>";
+		};
+		9FB856802436CC6B00CC25CC = {
+			isa = PBXGroup;
+			children = (
+				9FB8568B2436CC6B00CC25CC /* Leetcode */,
+				9FB8568A2436CC6B00CC25CC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9FB8568A2436CC6B00CC25CC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856892436CC6B00CC25CC /* Leetcode */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9FB8568B2436CC6B00CC25CC /* Leetcode */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED6F2244BF1D9007D685E /* 设计 */,
+				9FC809662439CECC00AB4E93 /* linkList */,
+				9FC809622439C9FB00AB4E93 /* stack */,
+				9FC8095C2439B89900AB4E93 /* tree  */,
+				9FC809502439ABCB00AB4E93 /* string */,
+				9FC809462438B12200AB4E93 /* sort */,
+				9F68FBDE24388F2000BC03B1 /* HashMap */,
+				9FB856B524376BC100CC25CC /* DP */,
+				9FB856A8243724B900CC25CC /* array */,
+				9FB8568C2436CC6B00CC25CC /* main.cpp */,
+			);
+			path = Leetcode;
+			sourceTree = "<group>";
+		};
+		9FB856942436CC9100CC25CC /* 994. 感染橘子 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856952436CCBC00CC25CC /* solution994.cpp */,
+				9FB856972436DB7500CC25CC /* 遍历vector.cpp */,
+			);
+			path = "994. 感染橘子";
+			sourceTree = "<group>";
+		};
+		9FB8569924370AC900CC25CC /* 167. 两数之和 II - 输入有序数组 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB8569A24370AE500CC25CC /* Solution1.cpp */,
+				9FB8569C24370E9500CC25CC /* Solution2.cpp */,
+			);
+			path = "167. 两数之和 II - 输入有序数组";
+			sourceTree = "<group>";
+		};
+		9FB8569E243714EF00CC25CC /* 189. 旋转数组 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB8569F2437150B00CC25CC /* solution.cpp */,
+				9FB856A124371C7600CC25CC /* rotate.cpp */,
+			);
+			path = "189. 旋转数组";
+			sourceTree = "<group>";
+		};
+		9FB856A324371E7B00CC25CC /* 217. 存在重复元素 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856A424371E8C00CC25CC /* solution.cpp */,
+				9FB856A62437229F00CC25CC /* solution2.cpp */,
+			);
+			path = "217. 存在重复元素";
+			sourceTree = "<group>";
+		};
+		9FB856A8243724B900CC25CC /* array */ = {
+			isa = PBXGroup;
+			children = (
+				9FC809542439AEF600AB4E93 /* 344. 反转字符串 */,
+				9FB856B924376EC100CC25CC /* 面试题61. 扑克牌中的顺子 */,
+				9FB856B22437674900CC25CC /* 面试题53 - I. 在排序数组中查找数字 I */,
+				9FB856AF24374A0600CC25CC /* 1013. 将数组分成和相等的三个部分 */,
+				9FB856AC243738AA00CC25CC /* 283. 移动零 */,
+				9FB856A924372E9400CC25CC /* 268. 缺失数字 */,
+				9FB856A324371E7B00CC25CC /* 217. 存在重复元素 */,
+				9FB8569E243714EF00CC25CC /* 189. 旋转数组 */,
+				9FB8569924370AC900CC25CC /* 167. 两数之和 II - 输入有序数组 */,
+				9FB856942436CC9100CC25CC /* 994. 感染橘子 */,
+			);
+			path = array;
+			sourceTree = "<group>";
+		};
+		9FB856A924372E9400CC25CC /* 268. 缺失数字 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856AA24372EAB00CC25CC /* solution1.cpp */,
+			);
+			path = "268. 缺失数字";
+			sourceTree = "<group>";
+		};
+		9FB856AC243738AA00CC25CC /* 283. 移动零 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856AD243738BE00CC25CC /* solution1.cpp */,
+			);
+			path = "283. 移动零";
+			sourceTree = "<group>";
+		};
+		9FB856AF24374A0600CC25CC /* 1013. 将数组分成和相等的三个部分 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856B024374A1D00CC25CC /* Solution1.cpp */,
+			);
+			path = "1013. 将数组分成和相等的三个部分";
+			sourceTree = "<group>";
+		};
+		9FB856B22437674900CC25CC /* 面试题53 - I. 在排序数组中查找数字 I */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856B32437678400CC25CC /* count函数.cpp */,
+			);
+			path = "面试题53 - I. 在排序数组中查找数字 I";
+			sourceTree = "<group>";
+		};
+		9FB856B524376BC100CC25CC /* DP */ = {
+			isa = PBXGroup;
+			children = (
+				9FF270B12449DAC10019DA7B /* 583. 两个字符串的删除操作 */,
+				9F326A93243B09010002068A /* 63. 不同路径 II  */,
+				9F326A90243AEE4E0002068A /* 343. 整数拆分 */,
+				9FB856B624376BC800CC25CC /* 面试题42. 连续子数组的最大和（最大公共子序） */,
+			);
+			path = DP;
+			sourceTree = "<group>";
+		};
+		9FB856B624376BC800CC25CC /* 面试题42. 连续子数组的最大和（最大公共子序） */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856B724376BE500CC25CC /* dp.cpp */,
+			);
+			path = "面试题42. 连续子数组的最大和（最大公共子序）";
+			sourceTree = "<group>";
+		};
+		9FB856B924376EC100CC25CC /* 面试题61. 扑克牌中的顺子 */ = {
+			isa = PBXGroup;
+			children = (
+				9FB856BA24376F1600CC25CC /* sort method.cpp */,
+			);
+			path = "面试题61. 扑克牌中的顺子";
+			sourceTree = "<group>";
+		};
+		9FC809452438A7F500AB4E93 /* 219. 存在重复元素 II */ = {
+			isa = PBXGroup;
+			children = (
+				9F68FBDF24388F6500BC03B1 /* 219. 存在重复元素 II.cpp */,
+			);
+			path = "219. 存在重复元素 II";
+			sourceTree = "<group>";
+		};
+		9FC809462438B12200AB4E93 /* sort */ = {
+			isa = PBXGroup;
+			children = (
+				9FC809472438B12F00AB4E93 /* 242. 有效的字母异位词 */,
+			);
+			path = sort;
+			sourceTree = "<group>";
+		};
+		9FC809472438B12F00AB4E93 /* 242. 有效的字母异位词 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC809482438B14800AB4E93 /* sort.cpp */,
+			);
+			path = "242. 有效的字母异位词";
+			sourceTree = "<group>";
+		};
+		9FC809502439ABCB00AB4E93 /* string */ = {
+			isa = PBXGroup;
+			children = (
+				9FC8E458244AAD7B00870285 /* 609. 在系统中查找重复文件 */,
+				9FC8E455244AA8E200870285 /* 553. 最优除法  */,
+				9FF270AC2449BDF50019DA7B /* 539. 最小时间差 */,
+				9F0E0A7A24491DF500E68976 /* 537. 复数乘法 */,
+				9FB0F3E82449069000D18F97 /* 383. 赎金信 */,
+				9FC809592439B42600AB4E93 /* 345. 反转字符串中的元音字母 */,
+				9FC809512439ABD200AB4E93 /* 125. 验证回文串 */,
+			);
+			path = string;
+			sourceTree = "<group>";
+		};
+		9FC809512439ABD200AB4E93 /* 125. 验证回文串 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC809522439ABE800AB4E93 /* solution1.cpp */,
+			);
+			path = "125. 验证回文串";
+			sourceTree = "<group>";
+		};
+		9FC809542439AEF600AB4E93 /* 344. 反转字符串 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC809552439AF1400AB4E93 /* reverse function.cpp */,
+				9FC809572439AFD400AB4E93 /* swap.cpp */,
+			);
+			path = "344. 反转字符串";
+			sourceTree = "<group>";
+		};
+		9FC809592439B42600AB4E93 /* 345. 反转字符串中的元音字母 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC8095A2439B43D00AB4E93 /* solution.cpp */,
+			);
+			path = "345. 反转字符串中的元音字母";
+			sourceTree = "<group>";
+		};
+		9FC8095C2439B89900AB4E93 /* tree  */ = {
+			isa = PBXGroup;
+			children = (
+				9FC8095F2439B8C800AB4E93 /* 94. 二叉树的中序遍历 */,
+			);
+			path = "tree ";
+			sourceTree = "<group>";
+		};
+		9FC8095F2439B8C800AB4E93 /* 94. 二叉树的中序遍历 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC809602439B8DF00AB4E93 /* solution1.cpp */,
+			);
+			path = "94. 二叉树的中序遍历";
+			sourceTree = "<group>";
+		};
+		9FC809622439C9FB00AB4E93 /* stack */ = {
+			isa = PBXGroup;
+			children = (
+				9FC8E45D244B15EC00870285 /* 678. 有效的括号字符串 */,
+				9FC809632439CA0900AB4E93 /* 20. 有效的括号 */,
+			);
+			path = stack;
+			sourceTree = "<group>";
+		};
+		9FC809632439CA0900AB4E93 /* 20. 有效的括号 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC809642439CA2000AB4E93 /* solution.cpp */,
+			);
+			path = "20. 有效的括号";
+			sourceTree = "<group>";
+		};
+		9FC809662439CECC00AB4E93 /* linkList */ = {
+			isa = PBXGroup;
+			children = (
+				9F326A99243B566E0002068A /* 86. 分隔链表 */,
+				9F326A96243B11B90002068A /* 876. 链表的中间结点 */,
+				9FC809692439D01400AB4E93 /* 21. 合并两个有序链表 */,
+			);
+			path = linkList;
+			sourceTree = "<group>";
+		};
+		9FC809692439D01400AB4E93 /* 21. 合并两个有序链表 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC8096A2439D02900AB4E93 /* solution.cpp */,
+			);
+			path = "21. 合并两个有序链表";
+			sourceTree = "<group>";
+		};
+		9FC8E455244AA8E200870285 /* 553. 最优除法  */ = {
+			isa = PBXGroup;
+			children = (
+				9FC8E456244AA8F500870285 /* solution.cpp */,
+			);
+			path = "553. 最优除法 ";
+			sourceTree = "<group>";
+		};
+		9FC8E458244AAD7B00870285 /* 609. 在系统中查找重复文件 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC8E459244AAD8800870285 /* solution.cpp */,
+				9FC8E45B244AEBC500870285 /* stream method.cpp */,
+			);
+			path = "609. 在系统中查找重复文件";
+			sourceTree = "<group>";
+		};
+		9FC8E45D244B15EC00870285 /* 678. 有效的括号字符串 */ = {
+			isa = PBXGroup;
+			children = (
+				9FC8E45E244B160000870285 /* solution.cpp */,
+				9FC8E460244B1EBB00870285 /* Solution2.cpp */,
+			);
+			path = "678. 有效的括号字符串";
+			sourceTree = "<group>";
+		};
+		9FF270AC2449BDF50019DA7B /* 539. 最小时间差 */ = {
+			isa = PBXGroup;
+			children = (
+				9FF270AD2449BE0D0019DA7B /* solution.cpp */,
+				9FF270AF2449D21E0019DA7B /* solution2.cpp */,
+			);
+			path = "539. 最小时间差";
+			sourceTree = "<group>";
+		};
+		9FF270B12449DAC10019DA7B /* 583. 两个字符串的删除操作 */ = {
+			isa = PBXGroup;
+			children = (
+				9FF270B22449DB6A0019DA7B /* solution(exceed time).cpp */,
+				9FF270B42449E4440019DA7B /* dp.cpp */,
+			);
+			path = "583. 两个字符串的删除操作";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9FB856882436CC6B00CC25CC /* Leetcode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9FB856902436CC6B00CC25CC /* Build configuration list for PBXNativeTarget "Leetcode" */;
+			buildPhases = (
+				9FB856852436CC6B00CC25CC /* Sources */,
+				9FB856862436CC6B00CC25CC /* Frameworks */,
+				9FB856872436CC6B00CC25CC /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Leetcode;
+			productName = Leetcode;
+			productReference = 9FB856892436CC6B00CC25CC /* Leetcode */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9FB856812436CC6B00CC25CC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1140;
+				ORGANIZATIONNAME = Allen;
+				TargetAttributes = {
+					9FB856882436CC6B00CC25CC = {
+						CreatedOnToolsVersion = 11.4;
+					};
+				};
+			};
+			buildConfigurationList = 9FB856842436CC6B00CC25CC /* Build configuration list for PBXProject "Leetcode" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9FB856802436CC6B00CC25CC;
+			productRefGroup = 9FB8568A2436CC6B00CC25CC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9FB856882436CC6B00CC25CC /* Leetcode */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9FB856852436CC6B00CC25CC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F326A98243B11D20002068A /* Solution.cpp in Sources */,
+				9FB856B124374A1D00CC25CC /* Solution1.cpp in Sources */,
+				9F1ED6FB244C2D7E007D685E /* solution.cpp in Sources */,
+				9FD5F24D243BF603005ED8F5 /* solution.cpp in Sources */,
+				9F0E0A7D24491E0B00E68976 /* Solution.cpp in Sources */,
+				9FB856B42437678500CC25CC /* count函数.cpp in Sources */,
+				9FC8E45C244AEBC500870285 /* stream method.cpp in Sources */,
+				9F0E0A7924490EA800E68976 /* solution.cpp in Sources */,
+				9FB8569B24370AE500CC25CC /* Solution1.cpp in Sources */,
+				9F1ED6F5244BF208007D685E /* Solution.cpp in Sources */,
+				9FC809492438B14800AB4E93 /* sort.cpp in Sources */,
+				9FC809532439ABE800AB4E93 /* solution1.cpp in Sources */,
+				9FB856AE243738BE00CC25CC /* solution1.cpp in Sources */,
+				9FF270B32449DB6A0019DA7B /* solution(exceed time).cpp in Sources */,
+				9F326A95243B090F0002068A /* solution.cpp in Sources */,
+				9FC8E461244B1EBB00870285 /* Solution2.cpp in Sources */,
+				9F68FBE024388F6500BC03B1 /* 219. 存在重复元素 II.cpp in Sources */,
+				9FB856962436CCBC00CC25CC /* solution994.cpp in Sources */,
+				9F1ED701244C455F007D685E /* Solution.cpp in Sources */,
+				9FB0F3EA244906A900D18F97 /* solution.cpp in Sources */,
+				9FC809582439AFD400AB4E93 /* swap.cpp in Sources */,
+				9FB856A524371E8C00CC25CC /* solution.cpp in Sources */,
+				9FC8096B2439D02900AB4E93 /* solution.cpp in Sources */,
+				9FC8E45F244B160000870285 /* solution.cpp in Sources */,
+				9FB856982436DB7500CC25CC /* 遍历vector.cpp in Sources */,
+				9FC8E45A244AAD8800870285 /* solution.cpp in Sources */,
+				9FB856B824376BE500CC25CC /* dp.cpp in Sources */,
+				9FC809612439B8DF00AB4E93 /* solution1.cpp in Sources */,
+				9FB8569D24370E9500CC25CC /* Solution2.cpp in Sources */,
+				9FC8E457244AA8F500870285 /* solution.cpp in Sources */,
+				9FC809562439AF1400AB4E93 /* reverse function.cpp in Sources */,
+				9F1ED6FE244C3939007D685E /* solution.cpp in Sources */,
+				9FB856BB24376F1600CC25CC /* sort method.cpp in Sources */,
+				9FF270B52449E4440019DA7B /* dp.cpp in Sources */,
+				9FB856A02437150B00CC25CC /* solution.cpp in Sources */,
+				9FC8095B2439B43D00AB4E93 /* solution.cpp in Sources */,
+				9FB856AB24372EAB00CC25CC /* solution1.cpp in Sources */,
+				9FF270AE2449BE0D0019DA7B /* solution.cpp in Sources */,
+				9FB8568D2436CC6B00CC25CC /* main.cpp in Sources */,
+				9F1ED6F8244BFC16007D685E /* Solution.cpp in Sources */,
+				9FF270B02449D21E0019DA7B /* solution2.cpp in Sources */,
+				9F326A92243AEE600002068A /* solution1.cpp in Sources */,
+				9FC809652439CA2000AB4E93 /* solution.cpp in Sources */,
+				9FB856A72437229F00CC25CC /* solution2.cpp in Sources */,
+				9FB856A224371C7600CC25CC /* rotate.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		9FB8568E2436CC6B00CC25CC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		9FB8568F2436CC6B00CC25CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		9FB856912436CC6B00CC25CC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9FB856922436CC6B00CC25CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9FB856842436CC6B00CC25CC /* Build configuration list for PBXProject "Leetcode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9FB8568E2436CC6B00CC25CC /* Debug */,
+				9FB8568F2436CC6B00CC25CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9FB856902436CC6B00CC25CC /* Build configuration list for PBXNativeTarget "Leetcode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9FB856912436CC6B00CC25CC /* Debug */,
+				9FB856922436CC6B00CC25CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9FB856812436CC6B00CC25CC /* Project object */;
+}
