@@ -48,11 +48,11 @@ public:
         my_map[hashFunction(key)].remove_if([&](pair<int, int> p){return p.first == key;});
     }
 };
-
-
-int main(){
-    MyHashMap* m = new MyHashMap;
-    
-    m -> put(2, 2);
-    m -> put (2, 1);
-}
+//
+//
+//int main(){
+//    MyHashMap* m = new MyHashMap;
+//    
+//    m -> put(2, 2);
+//    m -> put (2, 1);
+//}
