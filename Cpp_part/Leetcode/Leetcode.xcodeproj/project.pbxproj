@@ -18,6 +18,10 @@
 		9F326A95243B090F0002068A /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F326A94243B090F0002068A /* solution.cpp */; };
 		9F326A98243B11D20002068A /* Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F326A97243B11D20002068A /* Solution.cpp */; };
 		9F68FBE024388F6500BC03B1 /* 219. 存在重复元素 II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F68FBDF24388F6500BC03B1 /* 219. 存在重复元素 II.cpp */; };
+		9F7999B42452BEA8001E36D5 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F7999B32452BEA8001E36D5 /* solution.cpp */; };
+		9F8658BB245189AA004AB6B2 /* solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F8658BA245189AA004AB6B2 /* solution1.cpp */; };
+		9F8658C124519E57004AB6B2 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F8658C024519E57004AB6B2 /* solution.cpp */; };
+		9F8658C92451CC85004AB6B2 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F8658C82451CC85004AB6B2 /* solution.cpp */; };
 		9FB0F3EA244906A900D18F97 /* solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB0F3E9244906A900D18F97 /* solution.cpp */; };
 		9FB8568D2436CC6B00CC25CC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB8568C2436CC6B00CC25CC /* main.cpp */; };
 		9FB856962436CCBC00CC25CC /* solution994.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FB856952436CCBC00CC25CC /* solution994.cpp */; };
@@ -78,6 +82,10 @@
 		9F326A94243B090F0002068A /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
 		9F326A97243B11D20002068A /* Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution.cpp; sourceTree = "<group>"; };
 		9F68FBDF24388F6500BC03B1 /* 219. 存在重复元素 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "219. 存在重复元素 II.cpp"; sourceTree = "<group>"; };
+		9F7999B32452BEA8001E36D5 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9F8658BA245189AA004AB6B2 /* solution1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution1.cpp; sourceTree = "<group>"; };
+		9F8658C024519E57004AB6B2 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
+		9F8658C82451CC85004AB6B2 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
 		9FB0F3E9244906A900D18F97 /* solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = solution.cpp; sourceTree = "<group>"; };
 		9FB856892436CC6B00CC25CC /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FB8568C2436CC6B00CC25CC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -145,6 +153,9 @@
 		9F1ED6F2244BF1D9007D685E /* 设计 */ = {
 			isa = PBXGroup;
 			children = (
+				9F7999B22452BE4F001E36D5 /* 173. 二叉搜索树迭代器 */,
+				9F8658C72451CBB4004AB6B2 /* 面试题 03.01. 三合一 */,
+				9F8658B924518986004AB6B2 /* 355. 设计推特 */,
 				9F1ED6FF244C4549007D685E /* 341. 扁平化嵌套列表迭代器(重要) */,
 				9F1ED6FC244C392B007D685E /* 284. 顶端迭代器 （继承） */,
 				9F1ED6F9244C2D6E007D685E /* 232. 用栈实现队列 */,
@@ -233,6 +244,38 @@
 				9FC809452438A7F500AB4E93 /* 219. 存在重复元素 II */,
 			);
 			path = HashMap;
+			sourceTree = "<group>";
+		};
+		9F7999B22452BE4F001E36D5 /* 173. 二叉搜索树迭代器 */ = {
+			isa = PBXGroup;
+			children = (
+				9F7999B32452BEA8001E36D5 /* solution.cpp */,
+			);
+			path = "173. 二叉搜索树迭代器";
+			sourceTree = "<group>";
+		};
+		9F8658B924518986004AB6B2 /* 355. 设计推特 */ = {
+			isa = PBXGroup;
+			children = (
+				9F8658BA245189AA004AB6B2 /* solution1.cpp */,
+			);
+			path = "355. 设计推特";
+			sourceTree = "<group>";
+		};
+		9F8658BF24519E3D004AB6B2 /* 23. 合并K个排序链表 */ = {
+			isa = PBXGroup;
+			children = (
+				9F8658C024519E57004AB6B2 /* solution.cpp */,
+			);
+			path = "23. 合并K个排序链表";
+			sourceTree = "<group>";
+		};
+		9F8658C72451CBB4004AB6B2 /* 面试题 03.01. 三合一 */ = {
+			isa = PBXGroup;
+			children = (
+				9F8658C82451CC85004AB6B2 /* solution.cpp */,
+			);
+			path = "面试题 03.01. 三合一";
 			sourceTree = "<group>";
 		};
 		9FB0F3E82449069000D18F97 /* 383. 赎金信 */ = {
@@ -487,6 +530,7 @@
 		9FC809662439CECC00AB4E93 /* linkList */ = {
 			isa = PBXGroup;
 			children = (
+				9F8658BF24519E3D004AB6B2 /* 23. 合并K个排序链表 */,
 				9F326A99243B566E0002068A /* 86. 分隔链表 */,
 				9F326A96243B11B90002068A /* 876. 链表的中间结点 */,
 				9FC809692439D01400AB4E93 /* 21. 合并两个有序链表 */,
@@ -613,12 +657,15 @@
 				9F0E0A7924490EA800E68976 /* solution.cpp in Sources */,
 				9FB8569B24370AE500CC25CC /* Solution1.cpp in Sources */,
 				9F1ED6F5244BF208007D685E /* Solution.cpp in Sources */,
+				9F8658C92451CC85004AB6B2 /* solution.cpp in Sources */,
 				9FC809492438B14800AB4E93 /* sort.cpp in Sources */,
 				9FC809532439ABE800AB4E93 /* solution1.cpp in Sources */,
 				9FB856AE243738BE00CC25CC /* solution1.cpp in Sources */,
 				9FF270B32449DB6A0019DA7B /* solution(exceed time).cpp in Sources */,
 				9F326A95243B090F0002068A /* solution.cpp in Sources */,
+				9F7999B42452BEA8001E36D5 /* solution.cpp in Sources */,
 				9FC8E461244B1EBB00870285 /* Solution2.cpp in Sources */,
+				9F8658BB245189AA004AB6B2 /* solution1.cpp in Sources */,
 				9F68FBE024388F6500BC03B1 /* 219. 存在重复元素 II.cpp in Sources */,
 				9FB856962436CCBC00CC25CC /* solution994.cpp in Sources */,
 				9F1ED701244C455F007D685E /* Solution.cpp in Sources */,
@@ -643,6 +690,7 @@
 				9FF270AE2449BE0D0019DA7B /* solution.cpp in Sources */,
 				9FB8568D2436CC6B00CC25CC /* main.cpp in Sources */,
 				9F1ED6F8244BFC16007D685E /* Solution.cpp in Sources */,
+				9F8658C124519E57004AB6B2 /* solution.cpp in Sources */,
 				9FF270B02449D21E0019DA7B /* solution2.cpp in Sources */,
 				9F326A92243AEE600002068A /* solution1.cpp in Sources */,
 				9FC809652439CA2000AB4E93 /* solution.cpp in Sources */,

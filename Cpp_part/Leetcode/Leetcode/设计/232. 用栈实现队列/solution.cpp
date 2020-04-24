@@ -2,6 +2,7 @@
 #include <stack>
 using namespace std;
 
+//左右手互导
 class MyQueue {
 public:
     stack<int> queue;
