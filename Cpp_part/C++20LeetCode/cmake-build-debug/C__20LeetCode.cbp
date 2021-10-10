@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C__20LeetCode"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C__20LeetCode">
+				<Option output="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/C__20LeetCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__20LeetCode"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C__20LeetCode/fast">
+				<Option output="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/C__20LeetCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__20LeetCode/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/33. Search in Rotated Sorted Array.h">
+			<Option target="C__20LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/34. Find First and Last Position of Element in Sorted Array.h">
+			<Option target="C__20LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/main.cpp">
+			<Option target="C__20LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/allen/Code_git/Leetcode-Answer/Cpp_part/C++20LeetCode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
